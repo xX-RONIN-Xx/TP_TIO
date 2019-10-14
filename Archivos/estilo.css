@@ -55,11 +55,11 @@ body{
 .Secundario{width: 30%;
 float: left;
 height: 700PX;
-background-color: yellowgreen;
+background-color: blue;
 }
 .barra{
     text-align: center;
-    background-color: black;
+    background-color: brown;
     border-bottom: 0px5px solid gold;
     padding-left: 0px;
     margin: 0px;
